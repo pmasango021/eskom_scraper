@@ -16,7 +16,7 @@ WeekStartDate,Forecast_Or_Actual_Value,Forecast_Or_Actual_Value_Legend
 27-Mar-2023,3981,047,2021-22-Residual Energy Demand
 03-Oct-2022,3982,0419999999999,2021-22-Residual Energy Demand
 05-Dec-2022,3997,087,2021-22-Residual Energy Demand
-21-Nov-2022,3998,3980000000001,2021-22-Residual Energy Demand
+21-Nov-2022,3998,380000000001,2021-22-Residual Energy Demand
 19-Sep-2022,4007,6660000000002,2021-22-Residual Energy Demand
 20-Mar-2023,4012,0810000000001,2021-22-Residual Energy Demand
 12-Sep-2022,4024,3290000000002,2021-22-Residual Energy Demand
@@ -156,7 +156,8 @@ WeekStartDate,Forecast_Or_Actual_Value,Forecast_Or_Actual_Value_Legend
 04-Jul-2022,4325,3639999999996,2022-23-Residual Energy Demand
 20-Jun-2022,4438,8000000000002,2022-23-Residual Energy Demand
 13-Jun-2022,,2022-23-Residual Energy Forecast
-20-Jun-2022,,2022-23-Residual Energy Forecast
+20-Jun-2022,,2022-23-Residual Energy Forecast`
+20-Jun-2022,,2022-23-Residual Energy Forecast`
 30-May-2022,,2022-23-Residual Energy Forecast
 06-Jun-2022,,2022-23-Residual Energy Forecast
 11-Jul-2022,,2022-23-Residual Energy Forecast
